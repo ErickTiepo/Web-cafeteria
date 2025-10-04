@@ -34,7 +34,7 @@ Para visualizar o projeto, basta seguir os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)](https://github.com/ErickTiepo/Web-cafeteria.git)
    ```
 
 2. **Abra o arquivo `index.html` no seu navegador de preferência.**
